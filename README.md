@@ -1,4 +1,4 @@
-# Options Trading Simulator
+# Options Trading Sandbox
 
 This is a trading simulator built to understand how options are priced and how market dynamics like volatility affect them.
 
